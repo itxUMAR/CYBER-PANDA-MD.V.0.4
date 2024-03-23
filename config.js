@@ -51,8 +51,8 @@ global.lolhuman = "UMAR FAROOQ";
 
 //
 global.BotLogo = fs.readFileSync("./Assets/IMG-20240323-WA0038.jpg");
-global.Thumb = fs.readFileSync("./Assets/pic9.jpg");
-global.Thumb1 = fs.readFileSync("./Assets/pic5.jpg");
+global.Thumb = fs.readFileSync("./Assets/IMG-20240323-WA0035.jpg");
+global.Thumb1 = fs.readFileSync("./Assets/IMG-20240323-WA0026.jpg");
 global.ErrorPic = fs.readFileSync("./Assets/pic7.jpg");
 
 
@@ -79,19 +79,19 @@ global.ntilink = []
 
 //
 global.mess = {
-  jobdone: 'Here you go...',
-  useradmin: 'Sorry, only *Group Admins* can use this command *Baka*!',
-  botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group.',
-  botowner: 'Only my *Owner* can use this command, Baka!',
-  grouponly: 'This command is only made for *Groups*, Baka!',
-  privateonly: 'This command is only made for *Private Chat*, Baka!',
+  jobdone: 'BY UMAR FAROOQ',
+  useradmin: 'Sorry, only *Group Admins* can use this command',
+  botadmin: 'First Give The Admin Role To UMAR',
+  botowner: 'Only my *UMAR* can use this command',
+  grouponly: 'This command is only made for *Groups*',
+  privateonly: 'This command is only made for inbox',
   botonly: 'Only the *Bot itself* can use this command!',
-  waiting: 'Just Wait...',
-  nolink: 'Please provide me *link*, Baka!',
-  error: 'An error occurd!',
-  banned: 'You are *Banned* fron using commands!',
-  bangc: 'This Group is *Banned* from using Commands!',
-  nonsfw: 'Dont be a pervert Baka! This is not a NSFW enabled group!'
+  waiting: 'Just A second....',
+  nolink: 'Please provide me *link*',
+  error: 'Sorry I can't Find',
+  banned: 'UMAR *Banned* To Youfron using commands!',
+  bangc: 'This Group is *Banned* from using Commands by my owner UMAR FAROOQ',
+  nonsfw: 'Dont be a pervert Bro This is not a NSFW enabled group!'
 
 }
 
